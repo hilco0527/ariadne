@@ -6,7 +6,7 @@
     <title>Ariadne</title>
     <link rel="stylesheet" href="/static/pico.classless.zinc.min.css">
     <script src="/static/htmx.min.js"></script>
-    <script src="/static/_hyperscript.js"></script>
+    <script src="/static/_hyperscript.min.js"></script>
     <style>
         :root {
             --primary: #0284c7;
